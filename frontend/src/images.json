@@ -1,0 +1,18 @@
+[
+
+
+    {
+        "src":"public/images/Image1.png",
+        "alt":" Image1"
+    },
+    
+    {
+        "src":"public/images/Image2.png",
+        "alt":" Image2"
+
+    },
+    {
+        "src":"public/images/Image3.png",
+        "alt":" Image3"
+    }
+]
