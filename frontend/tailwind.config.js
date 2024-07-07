@@ -7,14 +7,24 @@ export default {
   theme: {
     extend: {
       colors:{
+
         teal:{
           custom: '#008080'
+        },
+        brown:{
+          custom:'#AD8C5C'
+        },
+        yellow:{
+          custom:'#E5DAB1'
         }
       },
-      fontFamily:{
-        italiana: ['Italiana', 'sans-serif']
-      }
+      fontFamily: {
+        italiana: ['Italiana', 'sans-serif'],
+        poppins: ['Poppins', 'sans-serif'], 
+      },
     },
+    
+
   },
   plugins: [],
 }
